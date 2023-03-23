@@ -9,22 +9,22 @@ Using this text editor, you can edit text in the browser. PWA criteria will be m
 The following image shows the application's manifest.json file:
 
 &nbsp;
-![Screenshot](./Develop/client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_01_21%20PM.png)
+![Screenshot](./client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_01_21%20PM.png)
 
 
 &nbsp;
-![Screenshot](./Develop/client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_01_57%20PM.png)
+![Screenshot](./client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_01_57%20PM.png)
 
 The following image shows the application's registered service worker:
 
 &nbsp;
-![Screenshot](./Develop/client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_02_06%20PM.png)
+![Screenshot](./client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_02_06%20PM.png)
 
 
 The following image shows the application's IndexedDB storage:
 
 &nbsp;
-![Screenshot](./Develop/client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_02_32%20PM.png)
+![Screenshot](./client/src/images/M.A.C%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-23%2012_02_32%20PM.png)
 
 
 ## Installation
